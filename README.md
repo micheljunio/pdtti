@@ -1,9 +1,9 @@
 # PDTTI
 ---------
  
-É um conjunto de ferramentas para exibição de dados geradas pelo IPEA.
+Ã‰ um conjunto de ferramentas para exibiÃ§Ã£o de dados geradas pelo IPEA.
 
-Atualmente é desenvolvimo uma ferramenta para exibição dos dados referentes aos índices IVS e IDHM.
+Atualmente Ã© desenvolvimo uma ferramenta para exibiÃ§Ã£o dos dados referente aos Ã­ndices IVS e IDHM.
 
-Clique para consultar a [Documentação](https://github.com/micheljunio/pdtti/wiki).
+Clique para consultar a [DocumentaÃ§Ã£o](https://github.com/micheljunio/pdtti/wiki).
 
